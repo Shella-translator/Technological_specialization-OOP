@@ -1,4 +1,4 @@
-package HW_6;
+package HW6;
 // Принцип открытия/закрытия
 public class Controller implements TeacherController<Teacher> {
     private final TeacherService teacherService = new TeacherService();
